@@ -2,7 +2,6 @@ pandas
 streamlit
 numpy
 scikit_learn
-pickle
 scipy
 LogisticRegression
 warnings
