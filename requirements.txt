@@ -3,8 +3,6 @@ streamlit
 numpy
 scikit_learn
 scipy
-LogisticRegression
-warnings
-train_test_split
+
 
 
