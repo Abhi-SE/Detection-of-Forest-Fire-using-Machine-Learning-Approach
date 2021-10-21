@@ -4,4 +4,5 @@ numpy==1.19.5
 scikit_learn==1.0
 Python 3.6.9
 Flask 2.0.1
+streamlit
 
