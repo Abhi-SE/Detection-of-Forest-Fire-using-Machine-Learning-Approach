@@ -1,0 +1,1 @@
+# Detection-of-Forest-Fire-using-Machine-Learning-Approach
